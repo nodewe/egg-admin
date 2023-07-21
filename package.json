@@ -46,6 +46,7 @@
     "@wangeditor/editor-for-vue": "5.1.10",
     "axios": "^1.4.0",
     "codemirror": "^5.65.13",
+    "dayjs": "^1.11.9",
     "echarts": "^5.2.2",
     "element-plus": "^2.3.6",
     "lodash-es": "^4.17.21",
